@@ -1,3 +1,3 @@
-#Nvidia Jetson Developer Kit
+# Nvidia Jetson Developer Kit
 
-python git push --set-upstream origin main test.mp4 rtsp://<IP address>:1234/my_output
+python object_detection.py test.mp4 rtsp://<IP address>:1234/my_output
